@@ -1,0 +1,27 @@
+# Node.js .gitignore
+
+# Logs
+logs/
+*.log
+
+# Node modules
+node_modules/
+
+# Distribution folder
+/dist
+
+# IDE and Editor directories
+.vscode/
+.idea/
+
+# macOS System files
+.DS_Store
+
+# Other common files
+*.env
+*.local
+*.zip
+*.tar.gz
+*.tgz
+*.bak
+*.orig
